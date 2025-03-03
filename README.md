@@ -1,4 +1,4 @@
-# Configuração de Ambiente de Desenvolvimento Python no Linux
+# Configuracao de Ambiente de Desenvolvimento Python no Linux
 
 Este repositório contém um **script automatizado** para configurar um ambiente de desenvolvimento **Python** completo no Linux. Ele instala o **PyCharm Community Edition**, pacotes essenciais para **Visão Computacional** e cria um diretório de trabalho para projetos.
 
@@ -11,7 +11,7 @@ Este repositório contém um **script automatizado** para configurar um ambiente
   - PyTorch (`torch`, `torchvision`)
   - Scikit-Image (`scikit-image`)
   - Scikit-Learn (`scikit-learn`)
-  - Outras dependências úteis (`numpy`, `matplotlib`, `pandas`)
+  - Outras dependências úteis (`numpy`, `matplotlib`, `pandas`, `tqdm`)
 - **Criação do diretório de trabalho**: `/home/$USER/Workspace/Projetos-Python`.
 - **Criação de atalhos** do PyCharm no menu de programas e na área de trabalho.
 
