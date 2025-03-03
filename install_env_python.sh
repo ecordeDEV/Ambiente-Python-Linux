@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# --------------------------------------------------
 # Nome do script: setup_python_dev.sh
 # Uso:
 #   1) Torne o script executável:
