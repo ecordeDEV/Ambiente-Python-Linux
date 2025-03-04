@@ -91,6 +91,8 @@ Se quiser melhorar este script, siga estas etapas:
 💡 **Mantenha este repositório atualizado e contribua para melhorar a automação do ambiente de desenvolvimento Python!** 🚀
 
 
+
+---
 # Python Development Environment Setup on Linux
 
 This repository contains an **automated script** to set up a complete **Python** development environment on Linux. It installs **PyCharm Community Edition**, essential packages for **Computer Vision**, and creates a working directory for projects.
